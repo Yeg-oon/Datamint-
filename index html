@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>DataMint</title>
+  <style>
+    body { font-family: 'Open Sans', sans-serif; background: #F5F5F5; margin: 0; padding: 0; color: #1E2A38; }
+    header { background: #1E2A38; color: white; padding: 1.5rem; text-align: center; }
+    h1 { margin: 0; font-family: 'Poppins', sans-serif; }
+    section { padding: 2rem; text-align: center; }
+    .highlight { color: #38E1A0; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to <span class="highlight">DataMint</span></h1>
+    <p>Turning data into value for businesses</p>
+  </header>
+  <section>
+    <h2>What We Do</h2>
+    <p>Scraping, analytics, dashboards, and business insights powered by open data and AI.</p>
+  </section>
+</body>
+</html>
