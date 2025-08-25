@@ -1,4 +1,4 @@
-kenyaimport pandas as pd
+import pandas as pd
 
 def fetch_budget_data():
     url = (
